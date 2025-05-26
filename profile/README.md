@@ -6,7 +6,7 @@
 
 ## 🌍 Contexto do Desafio
 
-Este projeto está sendo desenvolvido como parte do **Global Solution**, um desafio acadêmico que promove a criação de soluções reais para problemas globais. A equipe busca aplicar tecnologia de forma acessível e funcional para mitigar impactos das mudanças climáticas na vida das pessoas.
+Este projeto está sendo desenvolvido como parte do **Global Solution**, um desafio acadêmico que promove a criação de soluções reais para problemas globais. A equipe busca aplicar tecnologia de forma acessível e funcional para mitigar impactos dos eventos extremos da natureza na vida das pessoas.
 
 ## 📂 Repositórios
 
